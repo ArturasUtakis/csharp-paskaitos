@@ -28,6 +28,7 @@ namespace ConsoleApp1
             foreach (var duona in Duonos)
             {
                 duona.Isvedimas();
+                Console.WriteLine("");
             }
         }
     }
